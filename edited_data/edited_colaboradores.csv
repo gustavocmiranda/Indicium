@@ -54,7 +54,7 @@ cod_colaborador,email,cpf,data_nascimento,endereco,cep,nome,idade
 74,stephanypeixoto@example.net,027.619.358-02,1991-11-10,Distrito Pinto Liberdade 55152-938 Nascimento / PA,28501-411,Laís Aragão,32
 29,cavalcantithomas@example.org,403.527.198-50,1967-10-09,"Favela de Cunha, 84 Jardim América 28360-153 da Costa do Campo / RJ",42832-180,Juan Barbosa,56
 83,da-luzcarolina@example.com,149.853.026-51,1993-11-04,"Esplanada de da Conceição, 52 Satelite 42238-305 Cavalcanti / DF",41497222,Julia Barbosa,30
-71,arthur02@example.net,385.049.162-51,1967-07-13,"Colônia Thomas Viana, 918 Marajó 70771-248 Duarte / RJ",08566439,Gabriela Cardoso,56
+71,arthur02@example.net,385.049.162-51,1967-07-13,"Colônia Thomas Viana, 918 Marajó 70771-248 Duarte / RJ",08566439,Gabriela Cardoso,57
 89,silveiradaniela@example.org,461.203.589-51,1965-10-21,"Rodovia de Nogueira, 37 União 95858-378 das Neves / AM",65408-812,Camila Cardoso,58
 97,costajoao-miguel@example.net,897.605.341-93,1969-04-22,"Vereda Freitas, 46 Minas Brasil 80891-631 da Mata / CE",21980-775,Nicolas Cardoso,55
 21,vitor-hugosales@example.org,390.752.168-40,1973-03-24,"Chácara de Barbosa, 29 Engenho Nogueira 03345703 Cunha do Oeste / SP",03927-555,Rafaela Correia,51
@@ -80,7 +80,7 @@ cod_colaborador,email,cpf,data_nascimento,endereco,cep,nome,idade
 49,gustavo-henriquecastro@example.com,725.083.916-03,1977-08-06,"Travessa Laura Monteiro, 7 Grota 92672446 Porto / AL",36084-897,Pietra Caldeira,46
 61,vcavalcanti@example.net,526.984.013-89,1963-04-27,Recanto Nina da Costa Vila Santa Monica 1ª Seção 23645052 Castro de Fernandes / MA,03745319,Davi Lucca Carvalho,61
 58,lorena19@example.com,945.218.603-89,1994-02-22,"Vale Rezende, 4 São Geraldo 84460438 da Conceição de Sales / TO",33395-564,Ana Julia Ferreira,30
-75,vitor-hugoribeiro@example.net,283.076.541-90,1978-07-13,"Ladeira de Nascimento, 359 Salgado Filho 60868-929 da Rosa / CE",01114-589,Maria Fernanda Ferreira,45
+75,vitor-hugoribeiro@example.net,283.076.541-90,1978-07-13,"Ladeira de Nascimento, 359 Salgado Filho 60868-929 da Rosa / CE",01114-589,Maria Fernanda Ferreira,46
 78,fernando53@example.org,369.428.710-87,1976-09-12,"Favela Barros, 28 Nazare 98329-395 Caldeira do Norte / GO",83982-409,João Felipe Ferreira,47
 51,kda-cunha@example.com,823.456.790-00,1970-12-24,"Trecho de Duarte, 903 Leticia 22951015 Nascimento / RR",87312248,Pedro Lucas Silveira,53
 93,barbarapereira@example.net,395.814.270-23,1980-09-09,"Campo de Silveira, 36 Bernadete 75409639 Barbosa / RN",48093646,Yuri Silveira,43
