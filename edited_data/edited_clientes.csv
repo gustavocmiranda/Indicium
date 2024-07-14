@@ -124,7 +124,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 717,gpeixoto@example.net,PF,2015-02-21,349.281.567-73,1973-09-19,Jardim de da Rocha Conjunto Capitão Eduardo 14991503 Castro / RR,06635-669,Renan Nunes,50,12:48:00 UTC,9,RR
 836,vitor-gabriel68@example.com,PF,2022-08-23,752.986.041-02,1949-12-01,"Trecho de Barros, 13 Frei Leopoldo 70568448 da Costa / TO",30163-306,Emanuelly Nunes,74,11:20:00 UTC,1,TO
 871,alice24@example.org,PF,2022-08-22,159.034.268-24,1984-08-19,"Núcleo Guilherme Porto, 2 Varzea Da Palma 25918-822 Rodrigues / AP",05487-000,Lucca Nunes,39,14:00:00 UTC,1,AP
-879,barbarajesus@example.org,PF,2013-07-12,291.463.850-70,1962-08-03,Praça de Alves Santo André 10331-058 Costa / DF,15103-868,Anthony Nunes,61,10:44:00 UTC,10,DF
+879,barbarajesus@example.org,PF,2013-07-12,291.463.850-70,1962-08-03,Praça de Alves Santo André 10331-058 Costa / DF,15103-868,Anthony Nunes,61,10:44:00 UTC,11,DF
 917,diogofernandes@example.net,PF,2016-05-18,702.418.965-76,1947-12-13,"Distrito de da Luz, 88 Cabana Do Pai Tomás 27391181 da Rosa / MS",15799-330,Theo Nunes,76,11:07:00 UTC,8,MS
 42,vitor-hugobarbosa@example.net,PF,2013-04-12,058.623.179-02,1959-06-09,"Ladeira Araújo, 39 Minaslandia 95368818 Ribeiro / AM",72785-264,Alexandre Pinto,65,12:10:00 UTC,11,AM
 117,noahteixeira@example.net,PF,2022-06-22,039.452.618-05,1961-04-18,"Campo Pires, 311 Conjunto Jatoba 63845-548 Silveira / SE",61967117,Igor Pinto,63,10:15:00 UTC,2,SE
@@ -256,7 +256,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 928,vitor58@example.com,PF,2022-12-16,785.431.629-55,1975-01-08,"Chácara de Sales, 6 Novo Tupi 64262-820 Lopes de Costa / GO",42445519,Ana Lívia Viana,49,10:46:00 UTC,1,GO
 936,onovaes@example.net,PF,2017-03-27,310.657.829-77,1954-09-12,"Rua Nascimento, 454 Barro Preto 07006068 Pereira do Sul / AP",63790069,Luiz Fernando Viana,69,16:43:00 UTC,7,AP
 19,oazevedo@example.net,PF,2019-10-05,250.861.493-98,1983-12-27,"Lago de Moraes, 17 Vila Calafate 97747-354 Barbosa / AL",50402163,Juan Barros,40,13:24:00 UTC,4,AL
-286,aragaodiogo@example.org,PF,2021-07-12,042.981.536-06,1996-10-30,"Quadra Luiz Felipe Silva, 66 Providencia 39170341 Monteiro do Galho / MG",95198-890,Arthur Barros,27,12:27:00 UTC,2,MG
+286,aragaodiogo@example.org,PF,2021-07-12,042.981.536-06,1996-10-30,"Quadra Luiz Felipe Silva, 66 Providencia 39170341 Monteiro do Galho / MG",95198-890,Arthur Barros,27,12:27:00 UTC,3,MG
 359,calves@example.org,PF,2019-01-15,145.028.679-85,1958-08-10,"Rua Gabrielly Teixeira, 5 Vila Mantiqueira 57819735 Peixoto / SC",41597-578,Renan Barros,65,11:27:00 UTC,5,SC
 363,mariana09@example.com,PF,2022-05-03,973.526.840-00,1991-10-12,Loteamento da Rocha Barão Homem De Melo 1ª Seção 67010422 Cardoso do Campo / MT,11833-620,Maria Luiza Barros,32,11:19:00 UTC,2,MT
 410,andre65@example.net,PF,2019-04-22,312.054.796-43,1979-05-08,"Chácara Sales, 37 Olaria 01703-287 Duarte de Nunes / SE",86348520,Mirella Barros,45,13:24:00 UTC,5,SE
@@ -324,7 +324,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 335,freitasjoana@example.org,PF,2022-01-02,103.986.527-59,2002-11-19,Colônia de Peixoto Carlos Prates 71637-087 Jesus dos Dourados / PE,95977393,Daniel Mendes,21,11:09:00 UTC,2,PE
 476,enogueira@example.org,PF,2018-05-26,387.045.196-39,1944-09-24,Fazenda Yuri Ramos Nova Suíça 18318-047 Almeida da Mata / MA,43688-770,Thiago Mendes,79,15:11:00 UTC,6,MA
 633,diegocavalcanti@example.net,PF,2011-05-08,032.479.165-80,1960-09-27,"Passarela Benício da Rocha, 7 Santa Inês 34620470 da Mata dos Dourados / PA",08093154,Caio Mendes,63,13:51:00 UTC,13,PA
-650,bmonteiro@example.org,PF,2022-07-12,964.357.208-00,2000-11-20,"Feira Carvalho, 9 Sport Club 55050-039 Araújo Verde / MA",81446657,Brenda Mendes,23,13:16:00 UTC,1,MA
+650,bmonteiro@example.org,PF,2022-07-12,964.357.208-00,2000-11-20,"Feira Carvalho, 9 Sport Club 55050-039 Araújo Verde / MA",81446657,Brenda Mendes,23,13:16:00 UTC,2,MA
 36,beniciopinto@example.net,PF,2012-02-17,718.634.902-13,1956-06-04,"Rua Cunha, 55 Vila Nova Dos Milionarios 16425-858 Nascimento / SC",36567-846,Enzo Gabriel Moraes,68,15:58:00 UTC,12,SC
 40,vitor92@example.org,PF,2015-04-14,587.192.463-82,1966-10-02,"Lago de Cavalcanti, 24 Parque São José 53257316 Rezende do Galho / PB",68473580,Marcela Moraes,57,14:50:00 UTC,9,PB
 228,tcostela@example.net,PF,2022-03-04,456.932.780-00,1970-02-05,"Quadra de Peixoto, 22 Vila Puc 62498734 da Rocha de Goiás / PE",30944-978,Juan Moraes,54,13:41:00 UTC,2,PE
@@ -434,9 +434,9 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 119,pereiraana-julia@example.net,PF,2020-01-14,021.837.645-62,1980-10-13,"Largo da Rosa, 7 Buritis 45383-999 Rodrigues / SE",34227301,Nicolas Almeida,43,10:20:00 UTC,4,SE
 128,emanuellacaldeira@example.net,PF,2018-05-22,619.834.257-37,1942-09-08,"Esplanada da Luz, 82 Custodinha 80877647 Viana do Campo / SP",90777463,Carolina Almeida,81,12:30:00 UTC,6,SP
 212,miguel32@example.net,PF,2021-04-09,381.576.940-00,2003-04-02,"Esplanada Castro, 96 Padre Eustáquio 77331429 Pereira / GO",88489-764,Vitória Almeida,21,15:40:00 UTC,3,GO
-227,valentinacastro@example.org,PF,2022-12-27,038.572.416-08,1964-07-12,Lagoa Rebeca Costela Acaba Mundo 54722189 da Costa / MG,60794-612,Vitor Almeida,59,13:30:00 UTC,1,MG
+227,valentinacastro@example.org,PF,2022-12-27,038.572.416-08,1964-07-12,Lagoa Rebeca Costela Acaba Mundo 54722189 da Costa / MG,60794-612,Vitor Almeida,60,13:30:00 UTC,1,MG
 297,gomesraul@example.com,PF,2018-08-11,513.269.804-24,1952-03-03,"Residencial de Oliveira, 12 Vila Nossa Senhora Do Rosário 05139-024 Farias / PE",10207922,Valentina Almeida,72,13:45:00 UTC,5,PE
-312,fernandesana-livia@example.com,PF,2022-07-12,654.098.213-51,1954-10-26,Conjunto Fernandes Novo Glória 18748994 Costa / RO,29021919,Ana Laura Almeida,69,16:34:00 UTC,1,RO
+312,fernandesana-livia@example.com,PF,2022-07-12,654.098.213-51,1954-10-26,Conjunto Fernandes Novo Glória 18748994 Costa / RO,29021919,Ana Laura Almeida,69,16:34:00 UTC,2,RO
 391,fda-conceicao@example.org,PF,2020-06-21,083.415.276-26,1999-10-03,"Loteamento Marcelo Melo, 4 Brasil Industrial 66720124 Araújo Grande / DF",04554-217,Anthony Almeida,24,11:39:00 UTC,4,DF
 532,lorena15@example.net,PF,2021-07-13,054.897.126-94,2005-07-01,"Lago Cardoso, 25 Venda Nova 91678327 Gonçalves / SC",67892719,Heloísa Almeida,19,14:56:00 UTC,2,SC
 647,henriqueda-rocha@example.com,PF,2018-12-19,592.631.874-28,1964-01-12,"Recanto de da Conceição, 7 Senhor Dos Passos 18905997 da Costa de Nogueira / PB",01814-432,Augusto Almeida,60,13:08:00 UTC,5,PB
@@ -586,7 +586,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 910,vgoncalves@example.org,PF,2011-11-03,628.749.350-00,1985-03-07,"Viela Rezende, 72 Acaba Mundo 81250-567 Cardoso da Praia / MS",28143660,Renan Martins,39,16:42:00 UTC,12,MS
 950,ocosta@example.com,PF,2020-10-23,301.859.672-21,1952-01-25,"Esplanada de Lima, 792 Universitário 17334-458 Fernandes Paulista / PB",00167-046,Rafaela Martins,72,14:33:00 UTC,3,PB
 961,ferreiradavi@example.com,PF,2020-05-13,061.472.839-87,1994-08-02,"Estrada Rezende, 10 Parque São Pedro 88844755 Pereira Verde / GO",07616-295,Yago Martins,29,11:41:00 UTC,4,GO
-53,anthony00@example.net,PF,2011-05-24,436.782.901-40,1995-07-12,"Estação Alves, 684 Vila Pilar 63522729 Dias do Sul / AL",90281-645,Maria Alice Moreira,28,15:30:00 UTC,13,AL
+53,anthony00@example.net,PF,2011-05-24,436.782.901-40,1995-07-12,"Estação Alves, 684 Vila Pilar 63522729 Dias do Sul / AL",90281-645,Maria Alice Moreira,29,15:30:00 UTC,13,AL
 58,rodrigofogaca@example.com,PF,2017-11-02,603.597.248-92,2005-01-18,"Recanto de Souza, 56 Vila Jardim Leblon 30799-297 Martins das Pedras / RJ",86635643,Bruno Moreira,19,12:54:00 UTC,6,RJ
 94,bryansilva@example.org,PF,2011-09-09,746.901.258-30,1987-08-22,"Residencial Vinicius Gonçalves, 5 Vila Maloca 54353333 Costa da Prata / GO",56080861,Sarah Moreira,36,15:00:00 UTC,12,GO
 178,limagustavo@example.com,PF,2020-07-17,678.254.103-35,2003-03-27,"Travessa Oliveira, 65 Bandeirantes 27146-308 das Neves de Lima / AC",49009385,Maria Clara Moreira,21,16:24:00 UTC,3,AC
@@ -703,7 +703,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 394,silvadanilo@example.com,PF,2016-12-21,872.405.613-80,1969-07-09,"Aeroporto de Nogueira, 90 Vila Piratininga Venda Nova 74845178 Rocha de Fogaça / GO",40557-484,Joana da Mota,55,13:31:00 UTC,7,GO
 464,rdas-neves@example.com,PF,2021-04-20,156.729.083-30,1991-12-02,"Conjunto de Costela, 452 Jardim Alvorada 25570466 Silveira de Pereira / SC",46903-963,João Felipe da Mota,32,10:09:00 UTC,3,SC
 518,gabrielly74@example.net,PF,2015-10-03,456.029.378-38,1950-09-16,"Largo de Correia, 42 Palmares 35281954 Mendes do Norte / CE",70049512,Maria Sophia da Mota,73,14:31:00 UTC,8,CE
-684,vgoncalves@example.com,PF,2020-03-14,692.435.078-00,1987-07-12,"Parque Teixeira, 91 Lourdes 39343662 das Neves do Galho / SP",90910-527,Beatriz da Mota,36,11:55:00 UTC,4,SP
+684,vgoncalves@example.com,PF,2020-03-14,692.435.078-00,1987-07-12,"Parque Teixeira, 91 Lourdes 39343662 das Neves do Galho / SP",90910-527,Beatriz da Mota,37,11:55:00 UTC,4,SP
 702,juannogueira@example.com,PF,2017-05-25,876.104.953-01,1960-01-19,Esplanada Mariane Fogaça Boa União 2ª Seção 51644-388 Viana / CE,09413343,André da Mota,64,15:10:00 UTC,7,CE
 755,pereiraraquel@example.net,PF,2019-05-27,872.456.019-76,1995-06-21,"Feira da Paz, 25 Dona Clara 51727-260 Cunha da Serra / DF",55887339,Giovanna da Mota,29,13:47:00 UTC,5,DF
 777,maysa47@example.org,PF,2022-01-07,938.067.524-00,1948-03-06,"Lagoa de Nunes, 343 Madri 72186-807 Rocha / MT",28353-018,Pietro da Mota,76,13:03:00 UTC,2,MT
@@ -761,7 +761,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 996,maria-vitorianunes@example.org,PF,2017-02-20,235.097.618-12,1997-04-19,Trecho Sales Granja Werneck 29929103 Silveira do Galho / SE,86453320,Vicente Ferreira,27,14:29:00 UTC,7,SE
 179,silvasophia@example.net,PF,2019-01-15,029.674.851-01,1952-02-28,"Trecho de Farias, 906 Manacas 66718-074 Moraes / AP",58661-890,Thiago Monteiro,72,11:29:00 UTC,5,AP
 338,carlos-eduardo61@example.com,PF,2016-03-07,649.085.213-60,1967-01-03,"Viela de da Rosa, 86 Santa Amelia 78590-222 Vieira / RR",59633-454,Erick Monteiro,57,14:26:00 UTC,8,RR
-357,nicolearaujo@example.com,PF,2021-07-12,648.395.702-56,1951-10-29,"Rua Correia, 7 Marilandia 57967380 Porto do Oeste / MA",87506-304,Evelyn Monteiro,72,15:17:00 UTC,2,MA
+357,nicolearaujo@example.com,PF,2021-07-12,648.395.702-56,1951-10-29,"Rua Correia, 7 Marilandia 57967380 Porto do Oeste / MA",87506-304,Evelyn Monteiro,72,15:17:00 UTC,3,MA
 386,meloana-sophia@example.net,PF,2018-11-03,739.146.082-69,1987-10-04,Quadra Gomes Vila Piratininga Venda Nova 39354-670 Silva / SC,60999280,Nina Monteiro,36,12:58:00 UTC,5,SC
 409,ryanrezende@example.net,PF,2015-11-08,035.916.824-89,1999-03-03,"Largo de Farias, 8 Santa Sofia 78450-908 Fogaça / RR",55913-053,Juliana Monteiro,25,14:10:00 UTC,8,RR
 562,isabelsouza@example.net,PF,2021-07-16,342.971.860-04,1959-03-18,"Distrito de Cavalcanti, 14 Horto Florestal 55285195 Moraes / ES",90139-977,Mirella Monteiro,65,16:50:00 UTC,2,ES
@@ -821,7 +821,7 @@ cod_cliente,email,tipo_cliente,data_inclusao,cpfcnpj,data_nascimento,endereco,ce
 260,cavalcantimarcos-vinicius@example.com,PF,2013-10-22,432.150.768-53,1992-07-09,"Aeroporto Lopes, 1 Vila Jardim Leblon 32361498 Oliveira / SP",83270255,Alana Teixeira,32,14:33:00 UTC,10,SP
 278,lunapereira@example.org,PF,2020-04-17,670.391.825-21,1978-10-18,"Residencial Gonçalves, 273 Das Industrias I 53878542 Jesus / PI",46177-965,Alexia Teixeira,45,15:47:00 UTC,4,PI
 305,catarinacunha@example.com,PF,2021-07-13,136.897.240-31,1944-04-10,"Vale Martins, 83 Jardim Dos Comerciarios 86343-612 Nogueira / MT",00264638,Raul Teixeira,80,13:43:00 UTC,2,MT
-308,juan30@example.net,PF,2018-06-26,415.920.836-33,1959-07-12,"Quadra Anthony Viana, 65 Vista Do Sol 06902497 Lima / PI",13700963,Enrico Teixeira,64,14:23:00 UTC,6,PI
+308,juan30@example.net,PF,2018-06-26,415.920.836-33,1959-07-12,"Quadra Anthony Viana, 65 Vista Do Sol 06902497 Lima / PI",13700963,Enrico Teixeira,65,14:23:00 UTC,6,PI
 349,da-costaalana@example.com,PF,2019-01-07,375.492.086-38,1966-12-16,"Viaduto de Fogaça, 5 Andiroba 60168-433 Correia de Minas / MS",80534-607,Catarina Teixeira,57,15:47:00 UTC,5,MS
 401,eloah85@example.org,PF,2020-12-18,329.608.514-98,1965-02-22,"Estação de Martins, 42 Dom Joaquim 32620783 Vieira / MG",38783875,Murilo Teixeira,59,11:53:00 UTC,3,MG
 444,da-pazcamila@example.org,PF,2022-11-20,036.827.954-56,1954-10-12,"Área Cunha, 26 Marmiteiros 63250034 Nunes Verde / AM",40294-301,Bernardo Teixeira,69,16:56:00 UTC,1,AM
